@@ -24,5 +24,6 @@ int	ft_hex(unsigned int a, char c);
 int	ft_point(unsigned long a, int cont);
 int	ft_string(char *str);
 int	ft_unsigned(unsigned int a);
+int	ft_putchar(char a);
 
 #endif
